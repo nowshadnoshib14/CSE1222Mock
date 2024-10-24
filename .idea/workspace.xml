@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6675e30a-a075-4607-bef7-9cc9e78a64a2" name="Changes" comment="">
+    <list default="true" id="6675e30a-a075-4607-bef7-9cc9e78a64a2" name="Changes" comment="second">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q1/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q1/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q1/Supervisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q1/Supervisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q1/TestWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q1/TestWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q1/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q1/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nowshadnoshib14"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/nowshadnoshib14/CSE1222Mock",
@@ -82,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729757334271</updated>
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <option name="closed" value="true" />
+      <created>1729758877576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729758877576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
 </project>
